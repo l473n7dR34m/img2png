@@ -1,5 +1,5 @@
 # img2png
-A simple Python script to batch convert images (JPG, JPEG, PNG, BMP) into PNG format with a colourful terminal progress bar and a cheeky 😎 reward at the end.
+A simple Python script to batch convert images (JPG, JPEG, PNG, BMP) into PNG format.
 
 ---
 
